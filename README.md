@@ -94,4 +94,4 @@ Use the `Authorize` button in `/docs` to add the JWT bearer token.
 
 ## License
 
-Add a license file if you want to publish this repository under an open-source license.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
